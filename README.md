@@ -1,34 +1,43 @@
 # ML Algorithms & Data Sets Analysis
 
-This repository contains my hands-on Machine Learning practice on real-world datasets.
+This repository documents my hands-on Machine Learning journey through real-world datasets. Each project is built from scratch by following a complete end-to-end machine learning workflow, focusing on understanding the logic behind every step instead of simply following tutorials.
 
-Each project follows a complete ML workflow:
+## Workflow
 
-- Data Collection
+Each project includes:
+
 - Data Cleaning
+- Handling Missing Values
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Feature Encoding
 - Feature Scaling
 - Train-Test Split
-- Model Building
+- Machine Learning Model Training
 - Model Evaluation
-- Observations & Insights
+- Performance Comparison
+- Final Observations & Insights
 
-## Algorithms Covered
+---
+
+## Machine Learning Algorithms Covered
 
 - Logistic Regression
 - K-Nearest Neighbors (KNN)
 - Decision Tree
 - Random Forest
 - Support Vector Machine (SVM)
-- Naive Bayes
+- Gaussian Naive Bayes
 
-## Datasets
+---
+
+## Projects
 
 - Titanic Survival Prediction
-- Heart Disease Prediction
-- (More datasets will be added...)
+- Customer Churn Prediction
+- More projects coming soon...
+
+---
 
 ## Tech Stack
 
@@ -40,4 +49,11 @@ Each project follows a complete ML workflow:
 - Scikit-learn
 
 ---
-Currently building this repository while learning Machine Learning from scratch.
+
+## Goal
+
+This repository is part of my Machine Learning learning journey. My objective is to build strong practical skills by working on multiple real-world datasets before moving on to advanced topics such as Feature Selection, Hyperparameter Tuning, Ensemble Learning, Deep Learning, and Generative AI.
+
+---
+
+⭐ New projects will be added regularly as I continue learning and improving.
