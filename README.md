@@ -1,6 +1,8 @@
 # ML Algorithms & Data Sets Analysis
 
-This repository documents my hands-on Machine Learning journey through real-world datasets. Each project is built from scratch by following a complete end-to-end machine learning workflow, focusing on understanding the logic behind every step instead of simply following tutorials.
+This repository documents my hands-on Machine Learning journey through real-world datasets. Each project is built from scratch by following a complete end-to-end Machine Learning workflow, focusing on understanding the logic behind every step instead of simply following tutorials.
+
+---
 
 ## Workflow
 
@@ -33,8 +35,8 @@ Each project includes:
 
 ## Projects
 
-- Titanic Survival Prediction
 - Customer Churn Prediction
+- Loan Approval Prediction
 - More projects coming soon...
 
 ---
@@ -52,7 +54,14 @@ Each project includes:
 
 ## Goal
 
-This repository is part of my Machine Learning learning journey. My objective is to build strong practical skills by working on multiple real-world datasets before moving on to advanced topics such as Feature Selection, Hyperparameter Tuning, Ensemble Learning, Deep Learning, and Generative AI.
+This repository is part of my Machine Learning learning journey. My objective is to build strong practical skills by working on multiple real-world datasets before moving on to advanced topics such as:
+
+- Feature Selection
+- Hyperparameter Tuning
+- Ensemble Learning
+- Model Optimization
+- Deep Learning
+- Generative AI
 
 ---
 
