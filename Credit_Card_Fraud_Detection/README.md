@@ -5,6 +5,8 @@ An end-to-end machine learning project for detecting fraudulent credit card tran
 This project was created as a final practical consolidation of my classical Machine Learning fundamentals, covering the complete workflow from data understanding and EDA to model comparison, cross-validation, hyperparameter tuning, error analysis, threshold tuning, and model interpretation.
 
 ---
+## DataSet LINK - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 
 ## Problem Statement
 
